@@ -1,0 +1,57 @@
+[
+    {
+        "hashTagName":"#Nature",
+        "relatedTags": [
+            "#Nature","NaturePhotoGrapgy","#Photography","#Travel","#Love","#PhotoOfTheDay","#Landscape","#InstaGood","#NatureLovers","#Beautiful","#PicOfTheDay","#Photo","#Instagram","#Hiking","#LandscapePhotography","#Green","#Outdoors","#Explore"
+        ]
+    },
+    {
+        "hashTagName":"#Art",
+        "relatedTags":[
+            "#Art","#Artist","#Drawing","#ArtLove","#Love","#Photography","#Painting","#Illustration","#DigitalArt","#InstaGood","#Sketch","#Design","#PhotoOfTheDay","#Fashion","#Draw","#Beautiful","#InstaArt","#FanArt"
+        ]
+    },
+    {
+        "hashTagName":"#Photography",
+        "relatedTags":[
+            "#Photography","#PhotoOfTheDay","#PicOfTheDay","Photo","#Photographer","#InstaGood","#Nature","#Instagram","#PicOfTheDay","#Art","#PhotoShoot","#Beautiful","#Canon","#TravelPhotography","#Beautiful","#Landscape"
+        ]
+    },
+    {
+        "hashTagName":"#Food",
+        "relatedTags":[
+            "#Food","#Foodie","#FoodLover"
+        ]
+    },
+    {
+        "hashTagName":"#Music",
+        "relatedTags":[
+            "#Music","MusicLover","#LoveMusic","#Musician"
+        ]
+    },
+    {
+        "hashTagName":"#Fashion",
+        "relatedTags":[
+            "#Fashion","FashionDesigner","Fashioner",
+        ]
+    },
+    {
+        "hashTagName":"#Travel",
+        "relatedTags":[
+            "#Travel","#Nature","#Traveler"
+        ]
+    },
+    {
+        "hashTagName":"#Fitness",
+        "relatedTags":[
+            "#Fitness","#FitnessFreak","Gym"
+        ]
+    },
+    {
+        "hashTagName":"#Painting",
+        "relatedTags":[
+            "#Painting","#Painter","#Artist"
+        ]
+    }
+
+]
