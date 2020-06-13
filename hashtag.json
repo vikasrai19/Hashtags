@@ -1,54 +1,63 @@
 [
     {
         "hashTagName":"#Nature",
-        "relatedTags": ["#NatureLove",
-                   "#Nature","NaturePhotoGrapgy","#Photography","#Travel","#Love","#PhotoOfTheDay","#Landscape","#InstaGood","#NatureLovers","#Beautiful","#PicOfTheDay","#Photo","#Instagram","#Hiking","#LandscapePhotography","#Green","#Outdoors","#Explore"
+        "hashTagDes": "#Nature #NatureLove #NaturePhotoGraphy",
+        "relatedTags": [
+                   "#Nature","#NatureLove","NaturePhotoGrapgy","#Photography","#Travel","#Love","#PhotoOfTheDay","#Landscape","#InstaGood","#NatureLovers","#Beautiful","#PicOfTheDay","#Photo","#Instagram","#Hiking","#LandscapePhotography","#Green","#Outdoors","#Explore"
         ]
     },
     {
         "hashTagName":"#Art",
+        "hashTagDes":"#Art #Artist #Drawing",
         "relatedTags":[
             "#Art","#Artist","#Drawing","#ArtLove","#Love","#Photography","#Painting","#Illustration","#DigitalArt","#InstaGood","#Sketch","#Design","#PhotoOfTheDay","#Fashion","#Draw","#Beautiful","#InstaArt","#FanArt"
         ]
     },
     {
         "hashTagName":"#Photography",
+        "hashTagDes":"#Photography #PhotoOfTheDay #PicOfTheDay",
         "relatedTags":[
             "#Photography","#PhotoOfTheDay","#PicOfTheDay","Photo","#Photographer","#InstaGood","#Nature","#Instagram","#PicOfTheDay","#Art","#PhotoShoot","#Beautiful","#Canon","#TravelPhotography","#Beautiful","#Landscape"
         ]
     },
     {
         "hashTagName":"#Food",
+        "hashTagDes":"#Food #Foodie #FoodLover",
         "relatedTags":[
             "#Food","#Foodie","#FoodLover"
         ]
     },
     {
         "hashTagName":"#Music",
+        "hashTagDes":"#Music #MusicLover #LoveMusic",
         "relatedTags":[
-            "#Music","MusicLover","#LoveMusic","#Musician"
+            "#Music","#MusicLover","#LoveMusic","#Musician"
         ]
     },
     {
         "hashTagName":"#Fashion",
+        "hashTagDes":"#Fashion #FashionDesigner #Fashioner",
         "relatedTags":[
-            "#Fashion","FashionDesigner","Fashioner"
+            "#Fashion","#FashionDesigner","#Fashioner"
         ]
     },
     {
         "hashTagName":"#Travel",
+        "hashTagDes":"#Travel #Nature #Traveler",
         "relatedTags":[
             "#Travel","#Nature","#Traveler"
         ]
     },
     {
         "hashTagName":"#Fitness",
+        "hashTagDes":"#Fitness #FitnessFreak #Gym",
         "relatedTags":[
-            "#Fitness","#FitnessFreak","Gym"
+            "#Fitness","#FitnessFreak","#Gym"
         ]
     },
     {
         "hashTagName":"#Painting",
+        "hashTagDes":"#Painting #Painter #Artist",
         "relatedTags":[
             "#Painting","#Painter","#Artist"
         ]
