@@ -89,5 +89,20 @@
             "A best friend is like your favorite bra: supportive, comfortable, hard to find, and close to your heart",
             "A best friend will love you when you’re too sad to love yourself"
         ]
+    },
+    {
+        "category": "Question Captions",
+        "captions":[
+            "Yes or No?",
+            "How can I help you?",
+            "What do you think of this",
+            "How gorgeous is this?",
+            "If you could be doing anything right now, what would it be?",
+            "Which [fill in the blank] are you?",
+            "Trivia Time: How many people have tried [fill in the blank]?",
+            "How are you guys doing?",
+            "Miss me?",
+            "What time is it?"
+        ]
     }
 ]
