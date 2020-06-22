@@ -1,0 +1,87 @@
+[
+    {
+        "hashTagName":"#Nature",
+        "hashTagDes": "#Nature #NatureLove",
+        "relatedTags": [
+                   "#Nature","#NatureLove","NaturePhotoGrapgy","#Photography","#Travel","#Love","#PhotoOfTheDay","#Landscape","#InstaGood","#NatureLovers","#Beautiful","#PicOfTheDay","#Photo","#Instagram","#Hiking","#LandscapePhotography","#Green","#Outdoors","#Explore"
+        ]
+    },
+    {
+        "hashTagName":"#Art",
+        "hashTagDes":"#Art #Artist #Drawing",
+        "relatedTags":[
+            "#Art","#Artist","#Drawing","#ArtLove","#Love","#Photography","#Painting","#Illustration","#DigitalArt","#InstaGood","#Sketch","#Design","#PhotoOfTheDay","#Fashion","#Draw","#Beautiful","#InstaArt","#FanArt"
+        ]
+    },
+    {
+        "hashTagName":"#Photography",
+        "hashTagDes":"#Photography #PhotoOfTheDay",
+        "relatedTags":[
+            "#Photography","#PhotoOfTheDay","#PicOfTheDay","#Photo","#Photographer","#InstaGood","#Nature","#Instagram","#PicOfTheDay","#Art","#PhotoShoot","#Beautiful","#Canon","#TravelPhotography","#Beautiful","#Landscape"
+        ]
+    },
+    {
+        "hashTagName":"#Food",
+        "hashTagDes":"#Food #Foodie #FoodLover",
+        "relatedTags":[
+            "#Food","#Foodie","#FoodLover","#FoodPhotography","#InstaGood","#Yummy","#FoodBlogger","#Love","#Delecious","#FoodBeleiver","#Follow","#Like","HealthyFood","#FoodGasm","#HomeMade","#Foodies","#Cooking","#Lunch","#Restauranr", "#Healthy","#Eat","#Chef","#Instagram"
+        ]
+    },
+    {
+        "hashTagName":"#Music",
+        "hashTagDes":"#Music #MusicLover #LoveMusic",
+        "relatedTags":[
+            "#Music","#MusicLover","#LoveMusic","#Musician","#Love","#Rap","#Musician","#Art","#Musician","#Singer","#DJ","#Rock","#Dance","#InstaGood","#like","#Instagram","#Follow","#Guitar","#Song","#Party","LiveMusic","#Photography","#Concert","#NewMusic","#Producer","#InstaMusic","#MusicVideo","#Life","#BHYP"
+        ]
+    },
+    {
+        "hashTagName":"#Fashion",
+        "hashTagDes":"#Fashion #FashionDesigner #Fashioner",
+        "relatedTags":[
+            "#Fashion","#FashionDesigner","#Fashioner","#Style","#Like","#Food","#Photography","#Model","#PhotoOfTheDay","#Beautiful","#FashionBlogger","#Moda","#Follow","#Beauty","#Instagram","#Fashionista","#Art","#InstaFashion","#Cute","#PicOfTheDay","#Happy","#MakeUp","#Girl","#FolloMe","#Shopping","#LifeStyle","#InstaDaily","#Design","#BHYP"
+        ]
+    },
+    {
+        "hashTagName":"#Travel",
+        "hashTagDes":"#Travel #Nature #Traveler",
+        "relatedTags":[
+            "#Travel","#Nature","#Traveler"
+        ]
+    },
+    {
+        "hashTagName":"#Fitness",
+        "hashTagDes":"#Fitness #FitnessFreak #Gym",
+        "relatedTags":[
+            "#Fitness","#FitnessFreak","#Gym"
+        ]
+    },
+    {
+        "hashTagName":"#Painting",
+        "hashTagDes":"#Painting #Painter #Artist",
+        "relatedTags":[
+            "#Painting","#Painter","#Artist"
+        ]
+    },
+    {
+        "hashTagName":"#MakeUp",
+        "hashTagDes":"#Cosmetics #Beauty #MakeUp",
+        "relatedtagfs":[
+            "#MakeUp","#Cosmetics","#Beauty","#SkinCare","#MakeUpArtist","#Lipstick","#Fashion","#Beautiful","#InstaMakeUp","#EyeShadow","#MakeUpLover","#Lasehs","#Love","#MakeUpAddict","#Skin","#Lips","#MakeUpTutorail","#Like","#InstaBeauty","#InstaGood"
+        ]
+    },
+    {
+        "hashTagName":"#Meme",
+        "hashTagDes":"#Meme #Memes #Funny",
+        "relatedTags":[
+            "#Meme","#Memes","#Funny","#DankMemes","#MemesDailt","#Lol","#Follow","#Dank","#Humour","#Love","#DankMeme","#Imao","#Fun","#EdgyMemes","#MemePage","#offensiveMemes","#Memestagram","#funnyMeme","#Memer","#Fortnite","#Haha","#FunnyVideos","#ExplorePage","#LikeForLikes","#Viral","#BHFYP","#Jokes"
+        ]
+    },
+    {
+        "hashTagName":"#Aviation",
+        "hashTagDes":"#Aviation #Avgeek #Boeing",
+        "relatedTags":[
+            "#Aviation","#Avgeek","#Boeing","#AviationPhotogrphy","#AviationLovers","#Airplane","#Aircraft","#Airbus","#AviationDaily","#PlanesPotting","#InstagramAviation","#Plane","#Airport","#AviationGe","#InstaPlane","#PilotLife","#Flying","#Flight","#PlaneSpotter","#Lovers","#Fly","#Travel","#Planes"  
+        ]
+    }
+
+]
