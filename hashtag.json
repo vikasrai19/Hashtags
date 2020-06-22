@@ -61,6 +61,26 @@
         "relatedTags":[
             "#Painting","#Painter","#Artist"
         ]
+    },
+    {
+        "hashTagName":"#Dogs",
+        "hashTagDes":"#Dogs #DogsOfInstagram ##Dog",
+        "relatedTags":[
+            "#Dogs","#DogsOfInstagram","#Dog","#Dogstagram","#Puppy","#InstaDog","#DogOfTheDay","#Pets","#DogLovers","#Love","#DogLife","#Puppies","#Pet","#Cute","#Instagram","PuppyLove","DogsOfInsta","#PuppiesOfInstagram","#doogo","#ILoveMyDog","#PetsOfInstagram"
+        ]
+    },
+    {
+       "hashTagName":"#Cats",
+       "hashTagDes":"#Cats #CatsOfInstagram #Cat",
+       "relatedTags":[ 
+           "#Cats","#CatsOfInstagram","#Cat","#Catstagram","#Instagram","#CarLover","#CatLovers","#InstaCat","#Meow","#CatLife","#Pets","#Kitten","#Kitty","#CatOfTheDay","#Cute","#Love","#Pet","#World","#Dogs","#Animals","#CuteCats"
+       ] 
+    },
+    {
+        "hashTagName":"#Reading",
+        "hashTagDes":"#Reading #Bookstagram #Books",
+        "relatedTags":[ 
+            "#Reading","#Bookstagram","#Books","#Book","#BookLover","#BookWorm","#Read","#Bookish","#BookNerd","#BookAddict","#Bibliophile","#Bookstagrammer","#Reader","#Love","#BooksOfInstagram"
+        ]
     }
-    
 ]
