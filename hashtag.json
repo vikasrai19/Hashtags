@@ -82,5 +82,62 @@
         "relatedTags":[ 
             "#Reading","#Bookstagram","#Books","#Book","#BookLover","#BookWorm","#Read","#Bookish","#BookNerd","#BookAddict","#Bibliophile","#Bookstagrammer","#Reader","#Love","#BooksOfInstagram"
         ]
+    },
+    {
+        "hashTagName":"#Yoga",
+        "hashTagDes":"#Yoga #Fitness #Meditation",
+        "relatedTags":[
+            "#Yoga","#Fitness","#Meditation","#YogaInspiration","#YogaPractice","#Love","#YogaLife","#YogaEveryDay","#Yogi","#YogaTeacher","#Namaste","#YogaLove"
+        ]
+    },
+    {
+        "hashTagName":"#Meme",
+        "hashTagDes":"#Meme #Memes #Funny",
+        "relatedTags":[
+            "#Meme","#Memes","#Funny","#DankMemes","#MemesDay","#FunnyMemes","#Lol","#Follow","#Dank","#Humor","#Like","#DankMeme","#Instagram","#Comedy"
+        ]
+    },
+    {
+        "hashTagName":"#Technology",
+        "hashTagDes":"#Technology #Technologies #Tech",
+        "relatedTags":[
+            "#Technology","#Technologies","#Tech","#TechNews","#TechWorld","#Engineering","#TechnologyNews","#Innovation","#Gadgets","#Techno","#Tech","#TechLover","#Techgeek","#Techie","#Techies","#InstaTech"
+        ]
+    },
+    {
+        "hashTagName":"#Business",
+        "hashTagDes":"#Business #Entrepreneur #Marketing",
+        "relatedTags":[
+            "#Business","#Entrepreneur","#Marketing","#Success","#Motivation","#Money","#Love","#Entrepreneurship","#Startup","#SmallBusiness","#BusinessOwner","#InstaGood","#Mindset","#LifeStyle"
+        ]
+    },
+    {
+        "hashTagName":"#Couples",
+        "hashTagDes":"#Couples #love #CoupleGoals",
+        "relatedTags":[
+            "#Couples","#Love","#CoupleGoals","#Couple","#relationshipGoals","#Cute","#Like","CouplesGoals","#LoveQuotes","#Photography","#Instagram","#InstaGood","#Follow"
+        ]
+    },
+    {
+        "hashTagName":"#Holiday",
+        "hashTagDes":"#Holiday #Travel #Vacation",
+        "relatedTags":[
+            "#Holiday","#Travel","#Vacation","#Love","#travelgram","#InstaGood","#Trip","#Nature","#InstaTravel","#Photography","#Summer","#PhotoOfTheDay","#TravelPhotography","#Beach","#Travelling","#WanderLust"
+        ]
+    },
+    {
+        "hashTagName":"#Food",
+        "hashTagDes":"#Food #Foodie #InstaFood",
+        "relatedTags":[
+            "#Food","#Foodie","#InstaFood","#FoodPhotography","#Foodstagram","#Yummy","#InstaGood","#FoodBlogger","#Love","#Delicious","#FoodLover","#Follow","#Like","#HealthyFood","#HomeMade"
+        ]
+    },
+    {
+        "hashTagName":"#Pets",
+        "hashTagDes":"#Copy #Pet #Dogs",
+        "relatedTags":[
+            "#Pets","#Pet","#Dogs","#PetsOfInstagram","#Dog","#Cats","#CatsOfInstagram","#DogsOfInstagram","#Animals","#Cute","#Petstagram","#Cat","#DogLover","#CatLover","PetsLover"
+        ]
     }
+
 ]
