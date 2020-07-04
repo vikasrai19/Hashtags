@@ -1,5 +1,12 @@
 [
     {
+        "hashTagName":"#Top100",
+        "hashTagDes":"#Love #Instagood #PhotoofTheday",
+        "relatedTags":[
+            "#Love","#InstaGood","#PhotoOfTheDay","#Beautiful","#fashion","#TBT","#Happy","#Cute","#FollowMe","#Like4like","#Follow","#Me","#PicOfTheDay","#Selfie","#InstaDaily","#Friends","#Summer","#Girl","#Art","#Fun","#Repost","#Smile","#Nature","#InstaLike","#Food","#Style","#tagsForLikes","#Family","#likeForLikes","#Igers","#Fitness","#Notifier","#Follow4Follow","#InstaMood","#Amazing","#Life","#Travel","#Beauty","#Vscocam","#Sun","#BestOfTheDay","#Music","#FollowForFollow","#Beach","#Instagram","#Photo","#Sky","#vsco","#Dog","#I4I","#Ootd","#Pretty","#Swag","#MakeUp","#FoodPorn","#Hair","#Cat","#Party","#Girls","#Photography","#Cool","#Baby","#Lol","#Tflers","#Model","#Motivation","#Night","#Instapic","#Funny","#Gym","#Healthy","#Yummy","#Hot","#Design","#Black","#Pink","#Flowers", "#Christmas","#Blue","#Work","#InstaFood","#Fit","#InstaCool","#IPhneOnly","#Wedding","#BlackAndWhite","@WorkOut","#LifeStyle","#HandMade","#FollowBack","#instaFollow","#Home","#Drawing","#My","#NYC","#Webstagram","#Sweet","#InstaLove"
+        ]
+    },
+    {
         "hashTagName":"#Nature",
         "hashTagDes": "#Nature #NatureLove",
         "relatedTags": [
@@ -88,13 +95,6 @@
         "hashTagDes":"#Meme #Memes #Funny",
         "relatedTags":[
             "#Meme","#Memes","#Funny","#DankMemes","#MemesDay","#FunnyMemes","#Lol","#Follow","#Dank","#Humor","#Like","#DankMeme","#Instagram","#Comedy"
-        ]
-    },
-    {
-        "hashTagName":"#Technology",
-        "hashTagDes":"#Technology #Technologies #Tech",
-        "relatedTags":[
-            "#Technology","#Technologies","#Tech","#TechNews","#TechWorld","#Engineering","#TechnologyNews","#Innovation","#Gadgets","#Techno","#Tech","#TechLover","#Techgeek","#Techie","#Techies","#InstaTech"
         ]
     },
     {

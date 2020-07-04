@@ -7,6 +7,13 @@
         ]
     },
     {
+        "hashTagName":"#Technology",
+        "hashTagDes":"#Technology #Technologies #Tech",
+        "relatedTags":[
+            "#Technology","#Technologies","#Tech","#TechNews","#TechWorld","#Engineering","#TechnologyNews","#Innovation","#Gadgets","#Techno","#Tech","#TechLover","#Techgeek","#Techie","#Techies","#InstaTech"
+        ]
+    },
+    {
         "hashTagName":"#Couples",
         "hashTagDes":"#Couples #love #CoupleGoals",
         "relatedTags":[
@@ -39,6 +46,13 @@
         "hashTagDes":"#DIY #HandMade #Art",
         "relatedTags":[
             "#DIY","#HandMade","#Art","#HomeMade","#HomeDecor","#DoItYousrself","#Craft","#Design","#love","#Homemade", "#Crafts","#WoodWorking","#interiorDesign","#Home","#Sewing","#Decor","#Creative","#DIYHomeDecor","#DIYCrafts","#DIYProjects"
+        ]
+    },
+    {
+        "hashTagName":"#Gardening",
+        "hashTagDes":"#Gardenng #Garden #Flowers",
+        "relatedTags":[
+            "#Gardening","#Garden","#Flowers","#Nature","#Plants","#gardenlide","#GrowYourOwn","#Gardener","#GarderDesign","#Spring","#Gardens","#GrowYpurOwnFood","#PlantsOfInstagram","#Green","#Organic","#Plant","#NaturePhotography","#GardenInInspiration","#HomeGrown"
         ]
     }
 ]
