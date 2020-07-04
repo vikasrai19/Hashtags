@@ -84,6 +84,20 @@
         ]
     },
     {
+        "hashTagName":"#Meme",
+        "hashTagDes":"#Meme #Memes #Funny",
+        "relatedTags":[
+            "#Meme","#Memes","#Funny","#DankMemes","#MemesDay","#FunnyMemes","#Lol","#Follow","#Dank","#Humor","#Like","#DankMeme","#Instagram","#Comedy"
+        ]
+    },
+    {
+        "hashTagName":"#Technology",
+        "hashTagDes":"#Technology #Technologies #Tech",
+        "relatedTags":[
+            "#Technology","#Technologies","#Tech","#TechNews","#TechWorld","#Engineering","#TechnologyNews","#Innovation","#Gadgets","#Techno","#Tech","#TechLover","#Techgeek","#Techie","#Techies","#InstaTech"
+        ]
+    },
+    {
         "hashTagName":"#Yoga",
         "hashTagDes":"#Yoga #Fitness #Meditation",
         "relatedTags":[

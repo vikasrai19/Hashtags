@@ -1,19 +1,5 @@
 [
     {
-        "hashTagName":"#Meme",
-        "hashTagDes":"#Meme #Memes #Funny",
-        "relatedTags":[
-            "#Meme","#Memes","#Funny","#DankMemes","#MemesDay","#FunnyMemes","#Lol","#Follow","#Dank","#Humor","#Like","#DankMeme","#Instagram","#Comedy"
-        ]
-    },
-    {
-        "hashTagName":"#Technology",
-        "hashTagDes":"#Technology #Technologies #Tech",
-        "relatedTags":[
-            "#Technology","#Technologies","#Tech","#TechNews","#TechWorld","#Engineering","#TechnologyNews","#Innovation","#Gadgets","#Techno","#Tech","#TechLover","#Techgeek","#Techie","#Techies","#InstaTech"
-        ]
-    },
-    {
         "hashTagName":"#Business",
         "hashTagDes":"#Business #Entrepreneur #Marketing",
         "relatedTags":[
@@ -40,5 +26,19 @@
         "relatedTags":[
             "#Pets","#Pet","#Dogs","#PetsOfInstagram","#Dog","#Cats","#CatsOfInstagram","#DogsOfInstagram","#Animals","#Cute","#Petstagram","#Cat","#DogLover","#CatLover","PetsLover"
         ]
-    }    
+    },
+    {
+        "hashTagName":"#Drink",
+        "hashTagDes":"#Drnk #Drinks #Cocktails",
+        "relatedTags":[
+            "#Drink","#Drinks", "Food","#Cocktails","#Beer","#Party","#Love","#Wine","#mixology","#InstaGood","#Alcohol","#Friends","#Music","#Party","#Coffee","#Foodie","#Drinking","#DrinkUp","#Cheers","#Eat","#Yummy"
+        ]
+    },
+    {
+        "hashTagName":"#DIY",
+        "hashTagDes":"#DIY #HandMade #Art",
+        "relatedTags":[
+            "#DIY","#HandMade","#Art","#HomeMade","#HomeDecor","#DoItYousrself","#Craft","#Design","#love","#Homemade", "#Crafts","#WoodWorking","#interiorDesign","#Home","#Sewing","#Decor","#Creative","#DIYHomeDecor","#DIYCrafts","#DIYProjects"
+        ]
+    }
 ]
