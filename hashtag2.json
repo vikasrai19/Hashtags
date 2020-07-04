@@ -1,24 +1,44 @@
 [
     {
-        "hashTagName":"#Dogs",
-        "hashTagDes":"#Dogs #DogsOfInstagram ##Dog",
+        "hashTagName":"#Meme",
+        "hashTagDes":"#Meme #Memes #Funny",
         "relatedTags":[
-            "#Dogs","#DogsOfInstagram","#Dog","#Dogstagram","#Puppy","#InstaDog","#DogOfTheDay","#Pets","#DogLovers","#Love","#DogLife","#Puppies","#Pet","#Cute","#Instagram","PuppyLove","DogsOfInsta","#PuppiesOfInstagram","#doogo","#ILoveMyDog","#PetsOfInstagram"
+            "#Meme","#Memes","#Funny","#DankMemes","#MemesDay","#FunnyMemes","#Lol","#Follow","#Dank","#Humor","#Like","#DankMeme","#Instagram","#Comedy"
         ]
     },
     {
-       "hashTagName":"#Cats",
-       "hashTagDes":"#Cats #CatsOfInstagram #Cat",
-       "relatedTags":[ 
-           "#Cats","#CatsOfInstagram","#Cat","#Catstagram","#Instagram","#CarLover","#CatLovers","#InstaCat","#Meow","#CatLife","#Pets","#Kitten","#Kitty","#CatOfTheDay","#Cute","#Love","#Pet","#World","#Dogs","#Animals","#CuteCats"
-       ] 
+        "hashTagName":"#Technology",
+        "hashTagDes":"#Technology #Technologies #Tech",
+        "relatedTags":[
+            "#Technology","#Technologies","#Tech","#TechNews","#TechWorld","#Engineering","#TechnologyNews","#Innovation","#Gadgets","#Techno","#Tech","#TechLover","#Techgeek","#Techie","#Techies","#InstaTech"
+        ]
     },
     {
-        "hashTagName":"#Reading",
-        "hashTagDes":"#Reading #Bookstagram #Books",
-        "relatedTags":[ 
-            "#Reading","#Bookstagram","#Books","#Book","#BookLover","#BookWorm","#Read","#Bookish","#BookNerd","#BookAddict","#Bibliophile","#Bookstagrammer","#Reader","#Love","#BooksOfInstagram"
+        "hashTagName":"#Business",
+        "hashTagDes":"#Business #Entrepreneur #Marketing",
+        "relatedTags":[
+            "#Business","#Entrepreneur","#Marketing","#Success","#Motivation","#Money","#Love","#Entrepreneurship","#Startup","#SmallBusiness","#BusinessOwner","#InstaGood","#Mindset","#LifeStyle"
         ]
-    }
-    
+    },
+    {
+        "hashTagName":"#Couples",
+        "hashTagDes":"#Couples #love #CoupleGoals",
+        "relatedTags":[
+            "#Couples","#Love","#CoupleGoals","#Couple","#relationshipGoals","#Cute","#Like","CouplesGoals","#LoveQuotes","#Photography","#Instagram","#InstaGood","#Follow"
+        ]
+    },
+    {
+        "hashTagName":"#Holiday",
+        "hashTagDes":"#Holiday #Travel #Vacation",
+        "relatedTags":[
+            "#Holiday","#Travel","#Vacation","#Love","#travelgram","#InstaGood","#Trip","#Nature","#InstaTravel","#Photography","#Summer","#PhotoOfTheDay","#TravelPhotography","#Beach","#Travelling","#WanderLust"
+        ]
+    },
+    {
+        "hashTagName":"#Pets",
+        "hashTagDes":"#Copy #Pet #Dogs",
+        "relatedTags":[
+            "#Pets","#Pet","#Dogs","#PetsOfInstagram","#Dog","#Cats","#CatsOfInstagram","#DogsOfInstagram","#Animals","#Cute","#Petstagram","#Cat","#DogLover","#CatLover","PetsLover"
+        ]
+    }    
 ]

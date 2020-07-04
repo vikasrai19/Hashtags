@@ -63,25 +63,31 @@
         ]
     },
     {
-        "hashTagName":"#MakeUp",
-        "hashTagDes":"#Cosmetics #Beauty #MakeUp",
-        "relatedtagfs":[
-            "#MakeUp","#Cosmetics","#Beauty","#SkinCare","#MakeUpArtist","#Lipstick","#Fashion","#Beautiful","#InstaMakeUp","#EyeShadow","#MakeUpLover","#Lasehs","#Love","#MakeUpAddict","#Skin","#Lips","#MakeUpTutorail","#Like","#InstaBeauty","#InstaGood"
+        "hashTagName":"#Dogs",
+        "hashTagDes":"#Dogs #DogsOfInstagram ##Dog",
+        "relatedTags":[
+            "#Dogs","#DogsOfInstagram","#Dog","#Dogstagram","#Puppy","#InstaDog","#DogOfTheDay","#Pets","#DogLovers","#Love","#DogLife","#Puppies","#Pet","#Cute","#Instagram","PuppyLove","DogsOfInsta","#PuppiesOfInstagram","#doogo","#ILoveMyDog","#PetsOfInstagram"
         ]
     },
     {
-        "hashTagName":"#Meme",
-        "hashTagDes":"#Meme #Memes #Funny",
-        "relatedTags":[
-            "#Meme","#Memes","#Funny","#DankMemes","#MemesDailt","#Lol","#Follow","#Dank","#Humour","#Love","#DankMeme","#Imao","#Fun","#EdgyMemes","#MemePage","#offensiveMemes","#Memestagram","#funnyMeme","#Memer","#Fortnite","#Haha","#FunnyVideos","#ExplorePage","#LikeForLikes","#Viral","#BHFYP","#Jokes"
+       "hashTagName":"#Cats",
+       "hashTagDes":"#Cats #CatsOfInstagram #Cat",
+       "relatedTags":[ 
+           "#Cats","#CatsOfInstagram","#Cat","#Catstagram","#Instagram","#CarLover","#CatLovers","#InstaCat","#Meow","#CatLife","#Pets","#Kitten","#Kitty","#CatOfTheDay","#Cute","#Love","#Pet","#World","#Dogs","#Animals","#CuteCats"
+       ] 
+    },
+    {
+        "hashTagName":"#Reading",
+        "hashTagDes":"#Reading #Bookstagram #Books",
+        "relatedTags":[ 
+            "#Reading","#Bookstagram","#Books","#Book","#BookLover","#BookWorm","#Read","#Bookish","#BookNerd","#BookAddict","#Bibliophile","#Bookstagrammer","#Reader","#Love","#BooksOfInstagram"
         ]
     },
     {
-        "hashTagName":"#Aviation",
-        "hashTagDes":"#Aviation #Avgeek #Boeing",
+        "hashTagName":"#Yoga",
+        "hashTagDes":"#Yoga #Fitness #Meditation",
         "relatedTags":[
-            "#Aviation","#Avgeek","#Boeing","#AviationPhotogrphy","#AviationLovers","#Airplane","#Aircraft","#Airbus","#AviationDaily","#PlanesPotting","#InstagramAviation","#Plane","#Airport","#AviationGe","#InstaPlane","#PilotLife","#Flying","#Flight","#PlaneSpotter","#Lovers","#Fly","#Travel","#Planes"  
+            "#Yoga","#Fitness","#Meditation","#YogaInspiration","#YogaPractice","#Love","#YogaLife","#YogaEveryDay","#Yogi","#YogaTeacher","#Namaste","#YogaLove"
         ]
     }
-
 ]
